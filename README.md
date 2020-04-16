@@ -1,3 +1,4 @@
 # effective-eureka
 
-does it work?
+eureka eureka
+\frac{1}{2}
